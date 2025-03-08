@@ -1,6 +1,5 @@
 package dev.milikkan.hellomockito;
 
-import dev.milikkan.hellomockito.HelloMockito;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
